@@ -1,1 +1,1 @@
-"# suno-ai-bark-example" 
+# Suno-AI Bark example
